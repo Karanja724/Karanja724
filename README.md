@@ -1,21 +1,51 @@
-# Hi there, I'm Kelvin Karanja 👋
+# Hi there, I'm Karanja 👋
 
-I am a financial risk specialist with a background in Actuarial Science, currently pursuing my MSc in Investment and Financial Risk Management. I use GitHub to build and share projects focused on quantitative analysis, market research, and data-driven risk modeling.
+An **Actuarial Science** graduate currently pursuing an **MSc in Investment and Financial Risk Management**. I leverage data analytics, quantitative modeling, and statistical computing to analyze financial market dynamics and build risk assessment tools.
 
-### 🔭 Current Focus
-*   **Academic Research:** Conducting analytical research on financial markets and major market indices (like the FTSE 100) for my dissertation.
-*   **Data Analysis:** Building out my statistical computing skill set by learning and applying **R** to real-world financial datasets.
-*   **Continuous Learning:** Exploring the intersections of finance and tech, including web deployment platforms (Vercel) and the fundamentals of cybersecurity.
+---
 
-### 🛠️ Tech Stack & Tools
-*   **Languages:** R (Learning), SQL, Python, PowerBI, 
-*   **Tools & Platforms:** Git, GitHub, Vercel
-*   **Domain Expertise:** Financial Risk Management, Actuarial Science, Quantitative Analysis
+### 📊 Tech Stack & Tools
 
-### 📫 Let's Connect
-*   **LinkedIn:** https://www.linkedin.com/in/kelvin-karanja-0394b135a/
-*   **Email:** nkaranja724@gmail.com
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+---
+
+### 🔭 Areas of Expertise & Research Focus
+
+| Domain | Focus & Methodology | Primary Tools |
+| :--- | :--- | :--- |
+| **Market Index Research** | Analyzing volatility and historical return metrics for indices like the **FTSE 100**. | R, Quantitative Analysis |
+| **Financial Risk Management** | Portfolio risk modeling, Value-at-Risk (VaR), and stress testing. | R, Statistical Modeling |
+| **Technology & Security** | Exploring cloud deployments (Vercel) and cybersecurity fundamentals. | Git, Web Platforms |
+
+---
+
+### 📂 Featured Academic & Research Projects
+
+*   🚀 **[FTSE 100 Market Analysis Repository](#)** *(In Progress)*  
+    *An R-based quantitative study analyzing equity market index volatility and risk-adjusted returns.*
+*   📈 **[Financial Risk & Portfolio Analytics](#)**  
+    *Scripts and notebooks evaluating asset allocation models and risk metrics.*
+
+---
+
+### ⚡ GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karanja724&show_icons=true&theme=nord&hide_border=true" alt="Karanja's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karanja724&layout=compact&theme=nord&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-karanja-0394b135a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkaranja724@gmail.com)
 <!--
 **Karanja724/Karanja724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
