@@ -1,6 +1,6 @@
 # Hi there, I'm Karanja 👋
 
-An **Actuarial Science** graduate currently pursuing an **MSc in Investment and Financial Risk Management**. I leverage data analytics, quantitative modeling, and statistical computing to analyze financial market dynamics and build risk assessment tools.
+I am a Financial Risk Specialist with a background in Actuarial Science and an MSc candidate in Investment and Financial Risk Management. My focus is on quantitative risk modeling, market risk assessment, and financial analytics. Using R and statistical computing, I build open-source tools to model equity market dynamics (including FTSE 100 volatility), calculate Value-at-Risk (VaR), and evaluate portfolio stress testing frameworks.
 
 ---
 
